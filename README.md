@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BryanLab
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ReactJS
+- 💞️ I’m looking to collaborate on TypeScript
 - 📫 How to reach me ...
 
 <!---
